@@ -718,7 +718,7 @@
             TextButton.AnchorPoint = Vector2.new(0, 0.5)
             TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
             TextButton.BackgroundTransparency = 1.000
-            TextButton.BorderColor3 = Color3.fromRGB(35, 35, 35)
+            TextButton.BorderColor3 = Color3.fromRGB()
             TextButton.Position = UDim2.new(0, 0, 0.5, 0)
             TextButton.Selectable = true
             TextButton.Size = UDim2.new(1, -5, 1, -5)
@@ -727,7 +727,7 @@
 
             Holder.Name = "Holder"
             Holder.Parent = holder
-            Holder.BackgroundColor3 = Color3.fromRGB(46, 46, 46)
+            Holder.BackgroundColor3 = Color3.fromRGB(17, 0, 2556)
             Holder.Visible = false
             Holder.Position = UDim2.new(0, 0,0, 22)
             Holder.Size = UDim2.new(0, 140, 0, 1)
@@ -748,7 +748,7 @@
             UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
 
             TextBox.Parent = Text
-            TextBox.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+            TextBox.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
             TextBox.BackgroundTransparency = 0
             TextBox.Position = UDim2.new(0, 0, 0, 0)
             TextBox.Size = UDim2.new(1,-25,1,0)
@@ -1001,7 +1001,7 @@
             TextButton.AnchorPoint = Vector2.new(0, 0.5)
             TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
             TextButton.BackgroundTransparency = 1.000
-            TextButton.BorderColor3 = Color3.fromRGB(35, 35, 35)
+            TextButton.BorderColor3 = Color3.fromRGB(17, 0, 255)
             TextButton.Position = UDim2.new(0, 0, 0.5, 0)
             TextButton.Selectable = true
             TextButton.Size = UDim2.new(1, -8, 1, -8)
@@ -1043,7 +1043,7 @@
             
             Title.Name = "Title"
             Title.Parent = holder
-            Title.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+            Title.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
             Title.BackgroundTransparency = 1.000
             Title.BorderSizePixel = 0
             Title.Size = UDim2.new(1, 0, 0, 25)
@@ -1051,7 +1051,7 @@
             
             Title_2.Name = "Title"
             Title_2.Parent = Title
-            Title_2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+            Title_2.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
             Title_2.BackgroundTransparency = 0
             Title_2.Position = UDim2.new(0, -5, 0, 0)
             Title_2.Size = UDim2.new(1, 5, 1, 0)
