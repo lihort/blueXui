@@ -62,13 +62,13 @@
         Main.Position = UDim2.new(0, 15, 0, 15)
         Main.Size = UDim2.new(0, 150, 0, 206)
         Main.Image = "rbxassetid://3570695787"
-        Main.ImageColor3 = Color3.fromRGB(35, 35, 35)
+        Main.ImageColor3 = Color3.fromRGB(17, 0, 255)
         Main.ScaleType = Enum.ScaleType.Slice
         Main.SliceCenter = Rect.new(100, 100, 100, 100)
         Main.SliceScale = 0.040
         Main.Name = "Main"
         Main.Parent = ScreenGui
-        Main.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+        Main.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
         Main.BorderSizePixel = 0
         Main.Position = UDim2.new(0, #ScreenGui:GetChildren() * 170 - 155, 0, 15)
         Main.Size = UDim2.new(0, 150, 0, 25)
@@ -87,7 +87,7 @@
 
         buttonHolder.Name = "buttonHolder"
         buttonHolder.Parent = Main
-        buttonHolder.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+        buttonHolder.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
         buttonHolder.BackgroundTransparency = 1.000
         buttonHolder.BorderSizePixel = 0
         buttonHolder.Position = UDim2.new(0, 0, 0, 25)
@@ -107,7 +107,7 @@
         
         Title.Name = "Title"
         Title.Parent = Main
-        Title.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+        Title.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
         Title.BackgroundTransparency = 1.000
         Title.BorderSizePixel = 0
         Title.Size = UDim2.new(1, 0, 0, 25)
@@ -462,7 +462,7 @@
             Main2.BackgroundTransparency = 1.000
             Main2.Position = UDim2.new(0.5, 0, 0.5, 0)
             Main2.Size = UDim2.new(1, -10, 0, 6)
-            Main2.Image = "rbxassetid://3570695787"
+            Main2.Image = "rbxassetid://70695787"
             Main2.ImageColor3 = Color3.fromRGB(45, 45, 45)
             Main2.ScaleType = Enum.ScaleType.Slice
             Main2.SliceCenter = Rect.new(100, 100, 100, 100)
@@ -1185,7 +1185,7 @@
             TextLabel.Text = text
 
             Frame_2.Parent = Frame
-            Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            Frame_2.BackgroundColor3 = Color3.fromRGB(17, 0, 255)
             Frame_2.BorderSizePixel = 0
             Frame_2.Position = UDim2.new(0.303000003, 0, 0.800000012, 0)
             Frame_2.Size = UDim2.new(0, 57, 0, 1)
